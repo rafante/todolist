@@ -1,0 +1,5 @@
+class: Tarefa
+table: tarefa
+fields:
+    texto: String
+    concluida: bool
